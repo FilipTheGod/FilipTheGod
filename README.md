@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Svelt,Azure and serverless architectures**
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+- 👯 I’m looking to collaborate on **Web3 projects**
 
 - 📬 You can contact me via <a href="mailto:filip.stan@entreprenation.ro">e-mail</a> or on <a href="https://www.linkedin.com/in/filip-stan-5255b4203/">Linkedin</a>
 
