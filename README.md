@@ -10,14 +10,14 @@
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
-- 📬 You can contact me via <a href="mailto:filip.stan@entreprenation.ro">e-mail</a> or on <a href="https://www.linkedin.com/in/filip-stan-5255b4203/">Linkedin</a>
+- 📬 You can contact me via <a href="mailto:filip.stan@entreprenation.ro">e-mail</a> or on <a href="https://www.linkedin.com/in/filipstan/">Linkedin</a>
 
 - ⚡ Fun fact **I am legitimized PADI diving instructor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/filipsunfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="filipsunfire" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/filip-stan-5255b4203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip stan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/filipstan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip stan" height="30" width="40" /></a>
 <a href="https://instagram.com/filipsunfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filipsunfire" height="30" width="40" /></a>
 </p>
 
