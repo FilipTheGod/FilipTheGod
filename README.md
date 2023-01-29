@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipthegod&label=Profile%20views&color=0e75b6&style=flat" alt="filipthegod" /> </p>
 
-- 🔭 I’m currently working on **Anisoptera, offering data-driven waste sector solutions**
+- 🔭 I’m currently working on **Beenzer, presenting a game-changing perspective on digital ownership and the world of art**
 
 - 🌱 I’m currently learning **Svelt,Azure and serverless architectures**
 
