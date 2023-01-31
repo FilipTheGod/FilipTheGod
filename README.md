@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Beenzer, presenting a game-changing perspective on digital ownership and the world of art**
 
-- 🌱 I’m currently learning **Svelt,Azure and serverless architectures**
+- 🌱 I’m currently learning **Svelt,Rust and serverless architectures**
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
