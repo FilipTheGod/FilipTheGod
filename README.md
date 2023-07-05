@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Svelt,Rust and serverless architectures**
 
-- 👯 I’m looking to collaborate on **Web3 projects**
+- 👯 I’m looking to collaborate on **Creative projects**
 
-- 📬 You can contact me via <a href="mailto:filip.stan@entreprenation.ro">e-mail</a> or on <a href="https://www.linkedin.com/in/filipstan/">Linkedin</a>
+- 📬 You can contact me via <a href="mailto:filip.stan.318@gmail.com">e-mail</a> or on <a href="https://www.linkedin.com/in/filipstan/">Linkedin</a>
 
 - ⚡ Fun fact **I am legitimized PADI diving instructor**
 
@@ -27,6 +27,9 @@
 
 <h3 align="left">Frontend frameworks:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+<img src = "https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"
+   alt="threejs" width="40" height="40"/> </a> 
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40" /> </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
