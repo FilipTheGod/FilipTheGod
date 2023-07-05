@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipthegod&label=Profile%20views&color=0e75b6&style=flat" alt="filipthegod" /> </p>
 
-- 🔭 I’m currently working on **Beenzer, presenting a game-changing perspective on digital ownership and the world of art**
+- 🔭 I’m currently working on **I’m currently freelancing and channeling my creative prowess into various projects, reimagining the realms of digital ownership and the art world with game-changing perspectives.**
 
 - 🌱 I’m currently learning **Svelt,Rust and serverless architectures**
 
@@ -54,6 +54,7 @@
 
 
 <h3 align="left">Others:</h3>
+<a href="https://get.webgl.org/"  target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" alt="webgl" width="40" height="40"/> </a>
 <a href="https://vuetifyjs.com/en/"  target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"  alt="vuetify" width="40" height="40"/> </a>
 <a href="https://socket.io"  target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" alt="socket" width="40" height="40" /> </a>
 <a href="https://www.canva.com/en_gb/"  target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  alt="canva" width="40" height="40" /> </a>
