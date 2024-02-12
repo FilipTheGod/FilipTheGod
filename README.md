@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipthegod&label=Profile%20views&color=0e75b6&style=flat" alt="filipthegod" /> </p>
 
-- 🔭 I’m currently working on **channeling my creative energy into a variety of projects, reshaping the landscape of digital ownership and the art world with innovative perspectives.**
+- 🔭 I’m currently working on **channeling my creative energy into a variety of projects**
 
-- 🌱 I’m currently learning **Svelt,WebGL and serverless architectures**
+- 🌱 I’m currently learning **Three.js,Ruby and serverless architectures**
 
 - 👯 I’m looking to collaborate on **Creative projects**
 
