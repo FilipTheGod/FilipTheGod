@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 
-<h3 align="center">I'm a passionate software developer with a lifelong love for technology. I started coding at university and quickly fell in love with the creativity and problem-solving aspects of the field. In addition to my technical skills, I have a background in music and sports, which helps me bring a unique perspective to my work. Outside of coding, I enjoy experimenting with creative coding and contributing to open-source projects on GitHub. I'm excited to be part of the vibrant GitHub community and to continue learning and growing as a developer.
+<h3 align="center">I'm a passionate software developer with a lifelong love for technology. I started coding when I was 16 and quickly fell in love with the creativity and problem-solving aspects of the field. In addition to my technical skills, I have a background in music and sports, which helps me bring a unique perspective to my work. Outside of coding, I enjoy experimenting with creative coding and contributing to open-source projects on GitHub. I'm excited to be part of the vibrant GitHub community and to continue learning and growing as a developer.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipthegod&label=Profile%20views&color=0e75b6&style=flat" alt="filipthegod" /> </p>
